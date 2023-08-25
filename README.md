@@ -5,6 +5,10 @@
 Hi there! I'm a 3rd-year computer science student from Ukraine, passionate about web development as well as programming in general. Every day, I strive to enhance my skills and explore something new in the world of coding. I have a strong enthusiasm for tackling real-life problems and challenges. Let's connect and collaborate to create amazing web experiences together!
 
 ### ⚙️ Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
+
 <!--
 **Bisyk/Bisyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
