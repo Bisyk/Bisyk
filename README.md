@@ -1,6 +1,8 @@
 # 🧑🏻‍💻 Bisyk Yaroslav
 
-**`Web Developer`**
+**`Frontend Developer`**
+
+Hello there! I'm a 3rd-year computer science student from Ukraine, passionate about web development. Every day, I strive to enhance my skills and explore something new in the world of coding. I have a strong enthusiasm for tackling real-world problems and challenges. Let's connect and collaborate to create amazing web experiences together!
 
 <!--
 **Bisyk/Bisyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
