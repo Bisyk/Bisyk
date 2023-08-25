@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Bisyk Yaroslav
+# 🧑🏻‍💻 Yaroslav Bisyk
 
 **`Frontend Developer`**
 
