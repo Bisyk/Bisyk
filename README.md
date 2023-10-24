@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Yaroslav Bisyk
 
-**`Frontend Developer`**
+**`Software Engineer`**
 
 Hi there! I'm a 3rd-year computer science student from Ukraine, passionate about web development as well as programming in general. Every day, I strive to enhance my skills and explore something new in the world of coding. I have a strong enthusiasm for tackling real-life problems and challenges. Let's connect and collaborate to create amazing web experiences together!
 
