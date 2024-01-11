@@ -8,16 +8,9 @@ Hi there! I'm a 3rd-year computer science student from Ukraine, passionate about
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,react,redux,express,mongodb,mysql,html,css,sass,tailwind,bootstrap,styledcomponents,git,vscode,figma	)](https://skillicons.dev)
 
+### 🚀 Some Statisctic
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bisyk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bisyk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
