@@ -10,7 +10,7 @@ Hi there! I'm a 3rd-year computer science student from Ukraine, passionate about
 
 ### 🚀 Some Statisctic
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bisyka&layout=compact&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bisyk&layout=compact&theme=ambient_gradient)
 ![Bisyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bisyk&show_icons=true&theme=ambient_gradient)
 
 
