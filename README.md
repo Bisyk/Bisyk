@@ -6,7 +6,7 @@ Hi there! I'm a 3rd-year computer science student from Ukraine, passionate about
 
 ### ⚙️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,redux,express,mongodb,mysql,html,css,sass,tailwind,bootstrap,styledcomponents,vite,git,vscode,figma	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,redux,nextjs,express,mongodb,mysql,html,css,sass,tailwind,bootstrap,styledcomponents,vite,git,vscode,figma	)](https://skillicons.dev)
 
 ### 🚀 Some Statisctic
 
