@@ -10,16 +10,15 @@ Hi there! I'm a 3rd-year computer science student from Ukraine, passionate about
 
 ### 🚀 Some Statisctic
 
-![Codewars](https://github.r2v.ch/codewars?user=montegray&stroke=%23BB432C)
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisyk&layout=compact&theme=ambient_gradient">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisyk&layout=compact&theme=ambient_gradient" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Bisyk&show_icons=true&theme=ambient_gradient">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=Bisyk&show_icons=true&theme=ambient_gradient" />
 </a>
-
 <br></br>
-
+![Codewars](https://github.r2v.ch/codewars?user=montegray&stroke=%23BB432C)
 
                   
 
