@@ -14,7 +14,8 @@
 
 <!-- Most Used Languages Widget -->
 <a href="https://github.com/Bisyk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisyk&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisyk&layout=compact&theme=radical&card_width=495" alt="Top Languages" />
 </a>
+
 
 
