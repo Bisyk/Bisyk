@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Yaroslav Bisyk
-[[![Codewars Badge]([https://www.codewars.com/users/montegary/badges/large](https://www.codewars.com/users/montegray/badges/large))](https://www.codewars.com/users/montegray)](https://www.codewars.com/users/montegray/badges/large)
+<img src="https://www.codewars.com/users/montegray/badges/large"/>
 ### ⚙️ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,vue,nuxtjs,pinia,react,nextjs,redux,nodejs,express,prisma,mongodb,mysql,postgres,html,css,sass,tailwind,bootstrap,styledcomponents,docker,vite,npm,git,vscode,figma	)](https://skillicons.dev)
