@@ -5,7 +5,7 @@
 
 ### 🖼️ Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,pinia,react,nextjs,redux,html,css,vuetify,sass,tailwind,bootstrap,styledcomponents	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,pinia,react,nextjs,redux,html,css,sass,vuetify,tailwind,bootstrap,styledcomponents	)](https://skillicons.dev)
 
 ### 🔨 Backend
 
