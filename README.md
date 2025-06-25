@@ -9,7 +9,7 @@
 
 ### 🔨 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,mysql,postgres	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,express,nestjs,prisma,mongodb,mysql,postgres	)](https://skillicons.dev)
 
 ### 💻 Development Tools
 
